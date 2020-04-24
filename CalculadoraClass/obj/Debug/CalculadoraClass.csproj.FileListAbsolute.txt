@@ -1,0 +1,10 @@
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\bin\Debug\CalculadoraClass.exe.config
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\bin\Debug\CalculadoraClass.exe
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\bin\Debug\CalculadoraClass.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.Form1.resources
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.Properties.Resources.resources
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.csproj.GenerateResource.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.exe
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\CalculadoraClass\CalculadoraClass\obj\Debug\CalculadoraClass.pdb
